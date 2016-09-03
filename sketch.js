@@ -167,7 +167,7 @@ function draw() {
       noStroke();
       
       textSize(25);
-      text("I haven't made anything yet.   :(", 0, 50);
+      text("I am currently developing my own font\n and a style of graphics design.\n Stay tuned!", 0, 50);
     break;
     
     case "contact":
