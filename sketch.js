@@ -75,9 +75,9 @@ hexagon(0,0,200,90,color(25, 158, 83),color(8, 120, 25),1.2,true);
     textFont("Ubuntu");
     textSize(20);
     textAlign(CENTER,CENTER);
-    text("Karsten",0,150);
+    text("Captain",0,150);
     fill(42, 150, 42);
-    text("Anderson",0,175);
+    text("Productions",0,175);
     textSize(10);
     text("EST 2002",0,200);
   
@@ -154,7 +154,7 @@ function draw() {
       noStroke();
       
       textSize(25);
-      text("My name is Karsten Anderson. I'm a young programmer based in Minnesota.\n\n I discovered programming when I was on Khan Academy for school, and I saw the programming page.\n I watched the first tutorial video, drew a rectange, and I was hooked.\n Khan Academy's video tutorials and great live editor make it easy to learn.\n There were many talented people there who were always willing to help me out.\n\n I soon fell in love with programming, and designing graphics on Khan Academy.\n I made several games as well, but my favorite part was always drawing.\n My dream job is to some day work at Microsoft Studios.\n\n This is my website, that I coded with p5.js.\n Feel free to check out some of my games and art while you're here!\nP.S. I also like to play XBOX 1. Add me @Flysergeant k.", 0, 60);
+      text("My name is Captain(not literally, it's a pen name.) I'm a young programmer/gamer based in Minnesota.\n\n I discovered programming when I was on Khan Academy for school, and I saw the programming page.\n I watched the first tutorial video, drew a rectange, and I was hooked.\n Khan Academy's video tutorials and great live editor make it easy to learn.\n There were many talented people there who were always willing to help me out.\n\n I soon fell in love with programming, and designing graphics on Khan Academy.\n I made several games as well, but my favorite part was always drawing.\n My dream job is to some day work at Microsoft Studios.\n\n This is my website, that I coded with p5.js.\n Feel free to check out some of my games and art while you're here!\nP.S. I also like to play XBOX 1. Add me @Flysergeant k.", 0, 60);
     break;
     
     case "projects":
@@ -167,7 +167,7 @@ function draw() {
       noStroke();
       
       textSize(25);
-      text("I finished Mints and am currently working on a Destiny Montage. Stay tuned!", 0, 50);
+      text("I finished Mints and am currently working on a Destiny montage. Stay tuned!", 0, 50);
     break;
     
     case "contact":
