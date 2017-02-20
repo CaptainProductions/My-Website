@@ -154,7 +154,7 @@ function draw() {
       noStroke();
       
       textSize(25);
-      text("My name is Karsten Anderson. I'm a young programmer based in Minnesota.\n\n I discovered programming when I was on Khan Academy for school, and I saw the programming page.\n I watched the first tutorial video, drew a rectange, and I was hooked.\n Khan Academy's video tutorials and great live editor make it easy to learn.\n There were many talented people there who were always willing to help me out.\n\n I soon fell in love with programming, and designing graphics on Khan Academy.\n I made several games as well, but my favorite part was always drawing.\n My dream job is to some day work at Microsoft Studios.\n\n This is my website, that I coded with p5.js.\n Feel free to check out some of my games and art while you're here!", 0, 60);
+      text("My name is Karsten Anderson. I'm a young programmer based in Minnesota.\n\n I discovered programming when I was on Khan Academy for school, and I saw the programming page.\n I watched the first tutorial video, drew a rectange, and I was hooked.\n Khan Academy's video tutorials and great live editor make it easy to learn.\n There were many talented people there who were always willing to help me out.\n\n I soon fell in love with programming, and designing graphics on Khan Academy.\n I made several games as well, but my favorite part was always drawing.\n My dream job is to some day work at Microsoft Studios.\n\n This is my website, that I coded with p5.js.\n Feel free to check out some of my games and art while you're here!\nP.S. I also like to play XBOX 1. Add me @Flysergeant k.", 0, 60);
     break;
     
     case "projects":
@@ -167,7 +167,7 @@ function draw() {
       noStroke();
       
       textSize(25);
-      text("I am currently developing my own font\n and a style of graphics design.\n Stay tuned!", 0, 50);
+      text("I finished Mints and am currently working on a Destiny Montage. Stay tuned!", 0, 50);
     break;
     
     case "contact":
@@ -180,7 +180,7 @@ function draw() {
       noStroke();
       
       textSize(25);
-      text("You can contact me with any of these accounts:\n\nGitHub: https://github.com/CaptainProductions\n\nKhan Academy: khanacademy.org/callmecap", 0, 50);
+      text("You can contact me with any of these accounts:\n\nGitHub: https://github.com/CaptainProductions\n\nKhan Academy: khanacademy.org/callmecap\n\nYoutube: https://www.youtube.com/channel/UC_3JKnTlBu8mxYth3zO7Pkw", 0, 50);
     break;
   }
   
