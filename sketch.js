@@ -180,7 +180,7 @@ function draw() {
       noStroke();
       
       textSize(25);
-      text("You can contact me with any of these accounts:\n\nGitHub: https://github.com/CaptainProductions\n\nKhan Academy: khanacademy.org/callmecap\n\nYoutube: https://www.youtube.com/channel/UC_3JKnTlBu8mxYth3zO7Pkw\n\nXBOX Live: Flysergeant k", 0, 50);
+      text("\n\nYou can contact me with any of these accounts:\n\nGitHub: https://github.com/CaptainProductions\n\nKhan Academy: khanacademy.org/callmecap\n\nYoutube: https://www.youtube.com/channel/UC_3JKnTlBu8mxYth3zO7Pkw\n\nXBOX Live: Flysergeant k", 0, 50);
     break;
   }
   
